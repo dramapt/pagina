@@ -98,7 +98,7 @@ export function NoirHero() {
               Se ficar 60 segundos
             </p>
             <p className="mt-3 font-cormorant text-2xl italic leading-snug text-ivory sm:text-3xl">
-              Acesso vitalício
+              Acesso mensal
               <br />
               <span className="font-bold text-gold">por menos de um café</span>
             </p>

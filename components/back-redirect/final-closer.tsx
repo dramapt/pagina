@@ -48,7 +48,7 @@ export function FinalCloser() {
           transition={{ duration: 0.7, delay: 0.3 }}
           className="mx-auto mt-6 max-w-xl text-pretty font-lora text-base italic text-ivory/65 sm:text-lg"
         >
-          200+ minisséries. R$7,90. Uma vez. Para sempre.
+          200+ minisséries. R$7,90/mês. Cancele quando quiser.
           <br />A decisão mais fácil que vais tomar hoje.
         </motion.p>
 

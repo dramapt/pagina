@@ -7,7 +7,7 @@ const events = [
   "Ana R., Manaus — garantiu acesso há 2 minutos",
   "Margarida C., São Paulo — está vendo a 3ª série hoje",
   "Ricardo F., Rio de Janeiro — «Não consigo parar de ver»",
-  "Inês B., Belo Horizonte — garantiu o acesso vitalício",
+  "Inês B., Belo Horizonte — garantiu o acesso agora mesmo",
   "Sofia M., Curitiba — presenteou a mãe no mesmo dia",
 ]
 

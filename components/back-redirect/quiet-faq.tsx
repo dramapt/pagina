@@ -11,7 +11,7 @@ const faqs = [
   },
   {
     q: "Vou pagar mais alguma coisa depois?",
-    a: "Não. R$7,90 uma única vez. Sem mensalidade, sem renovação, sem cobrança escondida. Acesso vitalício significa para sempre. De verdade. Novos lançamentos incluídos.",
+    a: "R$7,90 todo mês, sem taxas escondidas. Você pode cancelar quando quiser, direto na plataforma, sem burocracia. Novos lançamentos incluídos enquanto a assinatura estiver ativa.",
   },
   {
     q: "E se eu não gostar?",

@@ -3,7 +3,7 @@
 import { useEffect } from "react"
 import { usePathname, useRouter } from "next/navigation"
 
-const CHECKOUT_HOST = "pay.hotmart.com"
+const CHECKOUT_HOST = "go.perfectpay.com.br"
 const FLAG_KEY = "dramapt_checkout_started_v1"
 const FIRED_KEY = "dramapt_back_redirect_fired_v1"
 const BACK_PATH = "/oferta-especial"

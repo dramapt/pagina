@@ -1,3 +1,3 @@
-// Hotmart checkout URL with offer code pre-applied for the back-redirect flow.
-export const CHECKOUT_BACK_URL =
-  "https://pay.hotmart.com/N106017665W?off=wsz8evlf&checkoutMode=10"
+// PerfectPay checkout URL for the back-redirect flow — Plano Básico com
+// desconto (R$7,90/mês, recorrente), oferecido a quem ia desistir da compra.
+export const CHECKOUT_BACK_URL = "https://go.perfectpay.com.br/PPU38CQEFQG"

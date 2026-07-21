@@ -26,7 +26,7 @@ const cards = [
     name: "Inês B.",
     city: "Belo Horizonte",
     quote:
-      "R$7,90 por tudo isso para sempre? Senti que estava enganando alguém. Não estava. É mesmo assim.",
+      "R$7,90 por mês por tudo isso? Senti que estava enganando alguém. Não estava. É mesmo assim.",
   },
 ]
 

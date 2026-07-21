@@ -105,7 +105,7 @@ export function InlineOfferCard({
             className="mt-3 font-lora italic"
             style={{ fontSize: 12, color: "#7A7895" }}
           >
-            pagamento único · acesso imediato · para sempre
+            assinatura mensal · acesso imediato · cancele quando quiser
           </p>
         </div>
 

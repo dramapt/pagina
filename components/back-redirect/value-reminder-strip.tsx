@@ -24,7 +24,7 @@ export function ValueReminderStrip() {
         <span className="font-cormorant italic text-ivory">700+ minisséries · </span>
         <span className="font-mono font-bold text-gold">R$7,90</span>
         <span className="font-cormorant italic text-ivory">
-          {" "}· para sempre · sem mensalidades.
+          {" "}· acesso imediato · cancele quando quiser.
         </span>
       </p>
     </motion.div>

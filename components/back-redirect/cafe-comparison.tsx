@@ -25,7 +25,7 @@ export function CafeComparison() {
           transition={{ duration: 0.5 }}
           className="font-mono text-[10px] uppercase tracking-[0.3em] text-gold"
         >
-          Acesso vitalício por menos de um café
+          Acesso por menos de um café
         </motion.span>
 
         <div className="mt-10 flex items-center justify-center gap-6 sm:gap-12">
@@ -73,10 +73,10 @@ export function CafeComparison() {
               🎬
             </span>
             <p className="mt-4 font-cormorant text-2xl text-gold sm:text-3xl">
-              DramaPT Vitalício
+              DramaPT Mensal
             </p>
             <p className="mt-1 font-mono text-xs text-gold sm:text-sm">
-              R$7,90 — dura para sempre
+              R$7,90/mês — cancele quando quiser
             </p>
           </motion.div>
         </div>

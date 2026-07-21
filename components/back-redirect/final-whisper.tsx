@@ -109,12 +109,12 @@ export function FinalWhisper() {
           rel="noopener noreferrer"
           className="group mt-12 inline-flex items-center justify-center gap-3 rounded-md bg-gold px-9 py-5 text-lg font-bold text-noir shadow-[0_25px_70px_-15px_rgba(212,168,67,0.7)] transition hover:bg-gold-dim sm:text-xl"
         >
-          Aceitar — R$7,90 vitalício
+          Aceitar — R$7,90/mês
           <ArrowRight className="h-5 w-5 transition group-hover:translate-x-1" />
         </motion.a>
 
         <p className="mt-6 font-mono text-[10px] uppercase tracking-[0.25em] text-noir-muted">
-          Pagamento seguro · 7 dias garantia · Sem renovação
+          Pagamento seguro · 7 dias garantia · Cancele quando quiser
         </p>
       </div>
     </section>

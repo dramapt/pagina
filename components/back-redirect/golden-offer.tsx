@@ -47,7 +47,7 @@ export function GoldenOffer() {
         >
           <Zap className="h-3.5 w-3.5 fill-crimson-bright" />
           <span className="font-mono text-[10px] font-bold uppercase tracking-[0.2em] sm:text-xs">
-            Oferta privada · Não recorrente
+            Oferta privada · Só agora
 
           </span>
         </motion.div>
@@ -82,10 +82,10 @@ export function GoldenOffer() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="mt-6 text-balance text-center font-lora text-base text-ivory/70 sm:text-lg"
         >
-          Mesma plataforma. Mesmas 200+ minisséries. Mesmo acesso vitalício.
+          Mesma plataforma. Mesmas 200+ minisséries. Mesmo acesso completo.
           <br className="hidden sm:block" />
-          <span className="text-gold">20% de desconto</span> — paga uma vez,
-          fica para sempre.
+          <span className="text-gold">20% de desconto</span> no plano mensal
+          — cancele quando quiser.
         </motion.p>
 
         {/* Card */}
@@ -118,11 +118,11 @@ export function GoldenOffer() {
             {/* Left: price + bullets */}
             <div>
               <p className="font-mono text-[10px] uppercase tracking-[0.25em] text-noir-muted">
-                Pagamento único
+                Assinatura mensal
               </p>
               <div className="mt-3 flex items-baseline gap-3">
                 <span className="font-display text-7xl text-ivory sm:text-8xl">
-                  <span className="text-gold">R$</span>4
+                  <span className="text-gold">R$</span>7
                   <span className="text-gold">,</span>90
                 </span>
                 <span className="font-cormorant text-2xl italic text-noir-muted line-through">
@@ -130,7 +130,7 @@ export function GoldenOffer() {
                 </span>
               </div>
               <p className="mt-2 font-lora text-sm text-ivory/65 sm:text-base">
-                Vitalício. Sem mensalidades. Sem renovação automática.
+                R$7,90 todo mês. Cancele quando quiser, sem burocracia.
               </p>
 
               <ul className="mt-7 space-y-3 text-sm text-ivory/85 sm:text-base">
